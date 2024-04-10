@@ -1,0 +1,4 @@
+review code
+testing
+feedback
+Add Angular codes in footer
